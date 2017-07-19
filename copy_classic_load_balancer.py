@@ -25,7 +25,7 @@ import botocore
 
 # Classic load balancer to Application Load Balancer copy utility
 # version 1.1.0 2016
-# Authors: Long Ren, Dan Lindow, Max Clements, Tipu Qureshi
+# Authors: Ramesh Kumar, Long Ren, Dan Lindow, Max Clements, Tipu Qureshi
 
 # This script uses the configuration of the specified Classic load balancer
 # to create an Application Load Balancer in a "best effort" manner.
